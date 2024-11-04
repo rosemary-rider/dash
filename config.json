@@ -1,0 +1,12 @@
+{
+    "avengers_paths": {
+        "avg1": "/path/avg1",
+        "avg2": "/path/avg2"
+    },
+    "esa_paths": {
+        "esa1": "/path/esa1",
+        "esa2": "/path/esa2"
+    },
+    "start": "20240101 00:00 +0000",
+    "stop": "20240131 23:59 +0000"
+}

@@ -1,0 +1,10 @@
+{
+    "avengers_paths": {
+        "avg1": "/path/avg1",
+        "avg3": "/path/avg3"
+    },
+    "esa_paths": {
+        "esa1": "/path/esa1",
+        "esa2": "/path/esa2"
+    }
+}
